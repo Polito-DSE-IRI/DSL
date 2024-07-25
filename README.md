@@ -2,7 +2,8 @@
 Data Science Lab
 
 This course is one of the most challenging in Data Science and Engineering, not due to the complexity of the concepts themselves but because of their presentation.  
-In this course, you'll gain familiarity with a range of machine learning algorithms. Basic knowledge of Python syntax and experience with popular libraries such as Scikit-learn, NumPy, and Pandas is expected
+In this course, you'll gain familiarity with a range of machine learning algorithms. Basic knowledge of Python syntax and experience with popular libraries such as Scikit-learn, NumPy, and Pandas is expected.  
+You can find README file in Persian in PDF format.
 
 # Course Content  
 The course material is organized into 8 parts:    
